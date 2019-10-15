@@ -1,2 +1,6 @@
 pandas
-sklearn
+sklearn.linear_model.LogisticRegression
+sklearn.neighbors.KNeighborsClassifier
+sklearn.metrics.accuracy_score
+sklearn.metrics.recall_score
+sklearn.metrics.f1_score
