@@ -4,3 +4,5 @@ sklearn.neighbors.KNeighborsClassifier
 sklearn.metrics.accuracy_score
 sklearn.metrics.recall_score
 sklearn.metrics.f1_score
+sklearn.model_selection.train_test_split
+sklearn.tree.DecisionTreeClassifier
