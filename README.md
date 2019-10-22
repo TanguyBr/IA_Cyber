@@ -23,6 +23,11 @@ Nous avons comparé les résultats de trois algorithmes :
 ## Lancer le programme
 
 Vous devez au préalable avoir installé sur votre machine tous les éléments du fichier Requirements.txt.
+Pour cela, exécutez la commande : 
+
+```sh
+$ pip install -r requirements.txt
+```
 
 Placez-vous ensuite à la racine du projet, et exécutez la commande suivante :
 
