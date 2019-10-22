@@ -20,6 +20,8 @@ Nous avons comparé les résultats de trois algorithmes :
     * Précision : 0.9924
     * Recall : 0.9885
 
+L'arbre décisionnel est donc légèrement meilleur que l'algorithme des k plus proches voisins, alors que la régression logique est peu efficace dans notre cas.
+
 ## Lancer le programme
 
 Vous devez au préalable avoir installé sur votre machine tous les éléments du fichier Requirements.txt.
