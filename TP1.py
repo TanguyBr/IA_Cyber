@@ -6,8 +6,7 @@ from sklearn.metrics import accuracy_score, recall_score, f1_score
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 
-dataSet = "H:\\Documents\\cours\\S5\\IA\\TP1\\"
-df = pandas.read_csv(dataSet + "antivirus_dataset.csv", sep='|')
+df = pandas.read_csv("antivirus_dataset.csv", sep='|')
 dfSize = df.shape
 dfRows = dfSize[0]
 dfColumns = dfSize[1]
